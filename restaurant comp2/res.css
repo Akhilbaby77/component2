@@ -1,0 +1,81 @@
+.hero
+{
+    margin-top: 10%;
+}
+.hero h1{
+    text-align: center;
+}
+
+
+
+.navi
+{
+    background-color: black;
+}
+
+.col1
+{
+    
+}
+
+.hero
+{
+    padding: 20px;
+    background-image: url(hero.jpg);
+    margin-top: 10%;
+}
+.hero h1{
+    text-align: center;
+}
+
+
+
+.navi
+{
+    background-color: black;
+}
+
+.col1
+{
+    
+}
+body
+{
+    background-color: rgba(127, 255, 212, 0.103);
+}
+
+
+
+.mainimg
+{
+    display: flex;
+     flex: wrap;
+    
+
+}
+
+
+.input-group
+{
+    margin-top: 100px;
+    
+}
+img{
+    height: min-content;
+}
+
+
+.contact
+{
+    background-image: url(hero.jpg);
+    text-align: center;
+    margin-top: 10%;
+}
+.contact h2
+{
+    margin-top: 5%;
+}
+.contact h3
+{
+    margin-top: 5%;
+}
